@@ -1,5 +1,6 @@
 # Teamproject_test
-int test = 0;
+
+int test = 10;
 
 modified by asdf
 modified by juhee
